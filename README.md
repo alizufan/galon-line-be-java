@@ -9,7 +9,7 @@ POC for Java Spring Boot ☕🌱 + Grafana Loki 📊 + Open Tracing 🔍 + SigNo
 - Pickle (Pkl)
 - Grafana Loki
 - Open Telemetry
-- Spring Boot v2.7.3
+- Spring Boot
 
 ## Objective
 My objective is to make a service have **Observability**, **Maintainability** and **Scalability** capabilities.
