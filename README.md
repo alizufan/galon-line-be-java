@@ -22,7 +22,7 @@ This is used to help understand a performance issue, logging, error / crash trac
 - Debug manual resource check cpu, memory.
   
 ## Questions
-- How to centralize my configuration and make it alive and more expresive?
+- How to centralize my configuration and make it alive and more expressive?
 - How to keep track flow request on each process and sub-process?
 - How to centralize a logs error and find it easily?
 - storage when service got high traffic, How to centralize my monitoring so i can notify my resource is enough?
