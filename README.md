@@ -1,15 +1,17 @@
-# Galonline FE and BE Java
+# Galonline FE and BE
 POC for Java Spring Boot ☕🌱 + Grafana Loki 📊 + Open Tracing 🔍 + SigNoz 📈 + Docker 🐳.
 
-## Specification
-- Java 17
-- Maven
+## Overall Specification
+- Node v20 LTS
+- PNPM >= v7
+- Java v17
+- Maven v3.9.6
 - Docker
 - SigNoz
 - Pickle (Pkl)
 - Grafana Loki
 - Open Telemetry
-- Spring Boot 3.2.5
+- Spring Boot v3.2.5
 
 ## Objective
 My objective is to make a service have **Observability**, **Maintainability** and **Scalability** capabilities.
