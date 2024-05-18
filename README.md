@@ -1,4 +1,4 @@
-# Galon-Line BE Java
+# Galon-Line FE and BE Java
 POC for Java Spring Boot ☕🌱 + Grafana Loki 📊 + Open Tracing 🔍 + SigNoz 📈 + Docker 🐳.
 
 ## Specification
