@@ -2,14 +2,14 @@
 POC for Java Spring Boot ☕🌱 + Grafana Loki 📊 + Open Tracing 🔍 + SigNoz 📈 + Docker 🐳.
 
 ## Specification
-- Java 8
+- Java 17
 - Maven
 - Docker
 - SigNoz
 - Pickle (Pkl)
 - Grafana Loki
 - Open Telemetry
-- Spring Boot
+- Spring Boot 3.2.5
 
 ## Objective
 My objective is to make a service have **Observability**, **Maintainability** and **Scalability** capabilities.
