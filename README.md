@@ -12,7 +12,7 @@ POC for Java Spring Boot ☕🌱 + Grafana Loki 📊 + Open Tracing 🔍 + SigNo
 - Spring Boot v2.7.3
 
 ## Objective
-My hope making this is to make the service have Observability, Maintainability and Scalability capabilities.
+My objective making this is to make the service have Observability, Maintainability and Scalability capabilities.
 This is used to help understand a performance issue, logging, error / crash tracking a process in a service, so that it is easier to analyze the deficiencies in the service when it is used.
 
 ## Problems
